@@ -1,12 +1,12 @@
 # Project Title
 
 ** Title ** Employee Directory
-This is a homework for University of Oregon coding bootcamp. Learning how to create employee directory app using React.
+This is a homework for University of Oregon coding bootcamp. Learning how to create employee directory app using React. This assignment will require to break up components, manage components and respond to user events.
 
 ## Installation
 
 - npm i -- to install dependencies
-  -npm start -- to start the app using localhost 3000
+- -npm start -- to start the app using localhost 3000
 
 ## overview
 
