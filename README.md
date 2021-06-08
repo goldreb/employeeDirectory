@@ -5,14 +5,15 @@ This is a homework for University of Oregon coding bootcamp. Learning how to cre
 
 ## Installation
 
-* npm i -- to install dependencies
-* npm start -- to start the app using localhost 3000
+- npm i -- to install dependencies
+- npm start -- to start the app using localhost 3000
 
 ## overview
 
 ![gif](images/employee-directory.gif)
 
 ## video link
+
 https://goldreb.github.io/employeeDirectory/
 
 ## Contributing
